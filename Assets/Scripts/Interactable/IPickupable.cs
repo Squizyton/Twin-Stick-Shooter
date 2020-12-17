@@ -5,4 +5,6 @@ using UnityEngine;
 public interface IPickupable : IInteractable
 {
   void PickUp();
+
+  void OnThrow();
 }
