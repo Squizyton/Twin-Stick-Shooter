@@ -9,8 +9,17 @@
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
           <e p="CameraFollow.cs" t="Include" />
-          <e p="RotatePlayer.cs" t="Include" />
-          <e p="SimpleCameraController.cs" t="Include" />
+          <e p="Interactable" t="Include">
+            <e p="Crate.cs" t="Include" />
+            <e p="IInteractable.cs" t="Include" />
+            <e p="IPickupable.cs" t="Include" />
+          </e>
+          <e p="Player Movement" t="Include">
+            <e p="PlayerControls.cs" t="Include" />
+            <e p="PlayerMovement.cs" t="Include" />
+            <e p="RotatePlayer.cs" t="Include" />
+            <e p="SimpleCameraController.cs" t="Include" />
+          </e>
         </e>
         <e p="TutorialInfo" t="Include">
           <e p="Scripts" t="Include">
