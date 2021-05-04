@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="c3e96bce-be2b-4c0b-a7dd-cd225f2b4c5e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Twin-Stick-Shooter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Twin-Stick-Shooter/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Tile/Prototype Tile.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Tile/Prototype Tile.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/TileScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/TileScene.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/Dungeon Creation/DungeonBuilder.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Dungeon Creation/DungeonBuilder.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Dungeon Creation/Tiles/ProtoType.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Dungeon Creation/Tiles/ProtoType.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +85,7 @@
       <workItem from="1608159559740" duration="3180000" />
       <workItem from="1608163384316" duration="870000" />
       <workItem from="1608164273409" duration="5085000" />
-      <workItem from="1620157583624" duration="3704000" />
+      <workItem from="1620157583624" duration="6152000" />
     </task>
     <servers />
   </component>

@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6eb638ece1168fc41b498c71a547676f, type: 3}
-  m_Name: ProtoType
+  m_Name: ProtoType Hallway
   m_EditorClassIdentifier: 
-  buildPoints: 00000000010000000200000003000000
-  prefab: {fileID: 3852095339180132076, guid: 44c140d3fdbbc444dbccc6eae3c17063, type: 3}
+  buildPoints: 
+  prefab: {fileID: 0}
