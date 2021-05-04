@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: ProtoType Hallway
   m_EditorClassIdentifier: 
   buildPoints: 
-  prefab: {fileID: 0}
+  prefab: {fileID: 4688454113895242915, guid: 92078812278e20746a2d95329096ec3c, type: 3}
