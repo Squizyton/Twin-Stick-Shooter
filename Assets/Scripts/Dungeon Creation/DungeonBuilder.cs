@@ -4,15 +4,34 @@ using UnityEngine;
 
 public class DungeonBuilder : MonoBehaviour
 {
-    // Start is called before the first frame update
+    public DungeonTileSet tileSet;
+    
+    //How Many rooms do we want?
+    public int numberOfCells;
+
+    public GameObject startingRoom;
+    
+    
     void Start()
     {
-        
+        Intialize();
     }
 
-    // Update is called once per frame
-    void Update()
+
+    void Intialize()
     {
+        //TODO: Randomize a starting room;
+        Instantiate(startingRoom, transform.position, transform.rotation);
         
+        GenerateDungeon();
+    }
+
+    void GenerateDungeon()
+    {
+        var previousRoom = 
+        for (int x = 0; x < numberOfCells; x++)
+        {
+                   
+        }
     }
 }
